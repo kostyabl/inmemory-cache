@@ -1,0 +1,11 @@
+.vscode/*
+.idea/*
+.directory/*
+.git/*
+
+suppimts.txt
+.DS_Store
+goods-card-hj-service-sec.yaml
+goods-card-hj-service-sec-redis.yaml
+fileData/primaryData.csv
+fileData/SuppliedIMT.csv
