@@ -1,5 +1,5 @@
-# Simple inmemory cache
-Simple inmemory cache written in the Go programming language and support ttl and you own custom struct.
+# Simple in-memory cache
+Simple in-memory cache written in the Go programming language and support ttl and you own custom struct.
 
 Methods
 =======
